@@ -9,7 +9,6 @@ Follow the instructions on the original [source](https://github.com/code-iai/iai
 - [Tested configuration](#tested-configuration)
 - [Launch with GPU acceleration OpenCL/CUDA](#launch-with-gpu-acceleration-opencl/cuda)
 - [Citations](#citation)
-- [Screenshots](#screenshots)
 
 ## Description
 
